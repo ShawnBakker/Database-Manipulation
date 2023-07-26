@@ -1,0 +1,1 @@
+This work was completed in my CS330 class, and about ~33% of the work was my contribution. Most of the .cc files were made by me, and I modified all of the header files to add new functionality.
